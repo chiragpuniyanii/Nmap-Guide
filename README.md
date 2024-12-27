@@ -142,9 +142,11 @@ Nmap (Network Mapper) is an open-source tool for network exploration and securit
   nmap -oX output.xml 192.168.1.1
   ```
 ## 📚 Resources for Further Learning
-  - Official Nmap Documentation
-  - Nmap Scripting Engine Overview
-  - Nmap Cheat Sheet by Offensive Security
+- [Official Nmap Documentation](https://nmap.org/book/)
+- [Nmap Scripting Engine Overview](https://nmap.org/book/nse.html)
+- [Nmap Cheat Sheet by Offensive Security](https://www.offensive-security.com/nmap-cheat-sheet/)
+
+
 ```markdown
 
 
